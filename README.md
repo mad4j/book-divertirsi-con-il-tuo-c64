@@ -2,6 +2,11 @@
 
 ## Giocare con lo schermo
 
+Ripulisce il contenuto dello schermo e cambia i colori di bordo e sfondo.
+
+![Screen Player](screen-player.png)
+
+
 ```asm
 ; Screen Player
 ; clear screen content and play with screen and
