@@ -4,7 +4,7 @@
 
 ```asm
 ; Screen Player
-; clear screen content and play with screen and;
+; clear screen content and play with screen and
 ; border colors
 
 ; daniele.olmisani@gmail.com
