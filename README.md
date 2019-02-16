@@ -76,9 +76,8 @@ Questa versione del programma può essere inserita ed eseguita direttamente sul 
 Questo è il codice della routine assembler
 
 ```asm
-             *=3072
-238  33 208        inc 53280
-238  32 208        inc 53281
- 76   0  12        jmp 3072
+*=3072
+        inc 53280       ; 238  33 208
+        inc 53281       ; 238  32 208
+        jmp 3072        ;  76   0  12
 ```
-
