@@ -10,8 +10,8 @@ Giocare con lo schermo: questo programma ripulisce il contenuto dello schermo e 
 
 ```asm
 ; Screen Player
-; clear screen content and play with screen and
-; border colors
+; clear screen content and play with border and
+; background colors
 
 ; daniele.olmisani@gmail.com
 
