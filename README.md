@@ -3,8 +3,11 @@
 ## Giocare con lo schermo
 
 ```asm
-; This program rapidly updates the colors
-; of the screen and the border.
+; Screen Player
+; clear screen content and play with screen and;
+; border colors
+
+; daniele.olmisani@gmail.com
 
 
 ; jump location of BASIC RUN command
@@ -41,6 +44,8 @@ start   inc SCREEN  ; increase screen colour
         inc BORDER  ; increase border colour
         jmp start   ; repeat
 ```
+
+Basci type-in version
 
 
 ```
