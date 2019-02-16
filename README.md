@@ -1,8 +1,8 @@
 # Divertirsi con il tuo Commodore 64
 
-## Giocare con lo schermo
+## Screen Player
 
-Ripulisce il contenuto dello schermo e cambia i colori di bordo e sfondo.
+Giocare con lo schermo: questo programma ripulisce il contenuto dello schermo e cambia i colori di bordo e sfondo.
 
 ![Screen Player](screen-player.png)
 
