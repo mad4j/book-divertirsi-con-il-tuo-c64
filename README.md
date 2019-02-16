@@ -65,9 +65,9 @@ Questa versione del programma può essere inserita ed eseguita direttamente sul 
 100 REM SCREEN PLAYER
 110 SA = 3072
 120 FOR N = 0 TO 11
-130 READ A% : POKE SA+N,A%: NEXT N
-140 SYS SA
-150 END 
+130 : READ A% : POKE SA+N,A%
+140 NEXT
+150 SYS SA
 160 DATA 32,68,229,238,33,208,238,32
 170 DATA 208,76,3,12
 ```
