@@ -6,6 +6,7 @@ Ripulisce il contenuto dello schermo e cambia i colori di bordo e sfondo.
 
 ![Screen Player](screen-player.png)
 
+### Versione Assembler
 
 ```asm
 ; Screen Player
@@ -50,8 +51,8 @@ start   inc SCREEN  ; increase screen colour
         jmp start   ; repeat
 ```
 
-Basci type-in version
-
+### Versione Basic
+Questa versione del programma può essere inserita ed eseguita direttamente sul C64.
 
 ```
 100 REM SCREEN PLAYER
