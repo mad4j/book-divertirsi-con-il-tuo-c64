@@ -10,7 +10,7 @@ Una volta ottenuto il programma compilato in formato PRG (sia partendo da un lis
 
 ## Screen Player
 
-Giocare con lo schermo: questo programma ripulisce il contenuto dello schermo e cambia i colori di bordo e sfondo.
+Giocare con lo schermo: questo programma ripulisce il contenuto dello schermo e cambia dinamicamente i colori di bordo e sfondo.
 
 ![Screen Player](screen-player.png)
 
