@@ -64,10 +64,21 @@ Questa versione del programma può essere inserita ed eseguita direttamente sul 
 ```
 100 REM SCREEN PLAYER
 110 SA = 3072
-120 FOR N = 0 TO 11
+120 FOR N = 0 TO 8
 130 : READ A% : POKE SA+N,A%
 140 NEXT
-150 SYS SA
-160 DATA 32,68,229,238,33,208,238,32
-170 DATA 208,76,3,12
+150 PRINT "{CLEAR}"
+160 SYS SA
+170 DATA 238,33,208,238,32,208,76,0
+190 DATA 12
 ```
+
+Questo è il codice della routine assembler
+
+```asm
+             *=3072
+238  33 208        inc 53280
+238  32 208        inc 53281
+ 76   0  12        jmp 3072
+```
+
