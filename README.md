@@ -1,5 +1,11 @@
 # Divertirsi con il tuo Commodore 64
 
+## Introduzione
+
+* **Versione Assembler** per compilare ed eseguire la versione assembler e' necessario un ambiente di sviluppo; i programmi proposti in questo libro sono stati progettati utilizando CBM Studio come IDE e VICE come emulatore (entrambi per il sistema operativo Windows). Una volta ottenuto il programma compilato in formato PRG questo può essere eseguito su un C64 reale.
+
+* **Versione Basic** la versione BASIC del programma può essere inserita (con molta pazienza) ed eseguita direttamente su un C64 reale senza la necessità di strumenti esterni.
+
 ## Screen Player
 
 Giocare con lo schermo: questo programma ripulisce il contenuto dello schermo e cambia i colori di bordo e sfondo.
