@@ -36,7 +36,7 @@ Giocare con lo schermo: questo programma ripulisce il contenuto dello schermo e 
 
 ;       jsr $E544   ; clear screen kernal routine
 
-; otherwise implemet a clear loop
+; otherwise implement a clear screen loop
 
         lda #$20    ; space screen code
         ldx #$FA    ; starting counter
