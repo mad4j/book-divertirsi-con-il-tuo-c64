@@ -2,11 +2,11 @@
 
 ## Introduzione
 
-* **Versione Assembler** per compilare ed eseguire la versione assembler e' necessario un ambiente di sviluppo; i programmi proposti in questo libro sono stati progettati utilizando CBM Studio come IDE e VICE come emulatore (entrambi disponibili per diversi sitemi operativi). 
+* **Versione Assembler**: per compilare ed eseguire la versione assembler del programma e' necessario un ambiente di sviluppo; esistono ambienti di sviluppo per PC ed amnbienti per il C64, i programmi proposti in questo libro sono stati progettati utilizando CBM Studio come IDE e VICE come emulatore (entrambi disponibili per diversi sistemi operativi). 
 
-* **Versione Basic** la versione BASIC del programma può essere inserita (con molta pazienza) ed eseguita direttamente su un C64 reale senza la necessità di strumenti esterni.
+* **Versione Basic**: la versione BASIC del programma può essere inserita (con molta pazienza) ed eseguita direttamente su un C64 reale senza la necessità di strumenti esterni. Se possedete un registratore a cassette potete salvare il lavoro direttamente su nastro :-)
 
-Una volta ottenuto il programma compilato in formato PRG (sia partendo da un listato BASCI che Assembler) questo può essere eseguito su un C64 reale. Si consiglia una ricerca sul web per trovare la procedura più facile per voi.
+Una volta ottenuto il programma compilato in formato PRG (sia partendo da un listato BASIC che Assembler) questo può essere eseguito su un C64 reale. Si consiglia una ricerca sul web per trovare la procedura più facile per voi.
 
 ## Screen Player
 
